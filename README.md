@@ -11,6 +11,6 @@ Analyzed ecommerce sales data
 . Used different types of customized visualization (bar chart, pie chart, donut chart, clustered bar chart, scatter chart, line chart, area chart, map, slicers, etc)
 
 
-![Dashboard Preview]("C:\Users\sonke\Pictures\Screenshots\Screenshot 2025-05-15 104922.png")
+![Dashboard Preview](/Screenshot%202025-05-15%20104922.png)
 
 
